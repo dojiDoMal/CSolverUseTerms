@@ -3,10 +3,8 @@
     <head>
         <meta charset="utf-8">
         <title>Termos de uso e política de privacidade - CSolver</title>
-        <link rel="stylesheet" href="style.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+        <link rel="stylesheet" href="/assets/css/style.min.css">
     </head>
     <body>
         <div class="nav" onclick='changeActive(event)'>
@@ -18,18 +16,18 @@
             <div id="useTerms" class='content'></div>
             <div id="privacy" class="content"></div>    
         </main>
-        <script type="text/javascript" src="nav.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/dompurify@2.3.4/dist/purify.min.js"></script>
+        <script type="text/javascript" src="/assets/js/nav.min.js"></script>
+        <script type="text/javascript" src="/assets/js/marked.min.js"></script>
+        <script type="text/javascript" src="/assets/js/purify.min.js"></script>
         <script>
             var useTerms = document.getElementById('useTerms'); 
             var privacy = document.getElementById('privacy'); 
             
-            fetch('useTerms.md')
+            fetch('/assets/markdown/useTerms.md')
                 .then(response => response.text())
                 .then(text => useTerms.innerHTML = DOMPurify.sanitize(marked.parse(text)))
 
-            fetch('privacy.md')
+            fetch('/assets/markdown/privacy.md')
                 .then(response => response.text())
                 .then(text => privacy.innerHTML = DOMPurify.sanitize(marked.parse(text)))
         </script>
