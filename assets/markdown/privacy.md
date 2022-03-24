@@ -1,74 +1,51 @@
 # Política de Privacidade
 
-## Definições iniciais
+## Definições 
 
-Olá! Este documento atende às exigências da Lei nº 13.709 – Lei Geral de Proteção de Dados Pessoais (LGPD) e tem o objetivo de informar como protegemos os seus dados. Nós respeitamos a sua privacidade e por isso, queremos esclarecer alguns pontos importantes.
+Este documento atende às exigências da Lei nº 13.709 – Lei Geral de Proteção de Dados Pessoais (LGPD) e tem o objetivo de informar como seus dados serão protegidos. 
 
-Seus dados serão tratados e armazenados nos servidores em nuvem contratados pela **Justo Tecnologia e Inovação Social Ltda.**, que tem sede em São Paulo/SP, CNPJ/MF nº 38.447.139/0001-50, considerada aqui a “controladora” e chamada de **AppJusto**.
+Seus dados serão armazenados apenas no contexto interno do jogo. Eles não serão armazenados em servidores externos e serão compartilhados apenas o e-mail e a matrícula no caso exclusivo do envio de e-mail após concluir um nível.
 
 Você é o “Titular” dos seus dados de acordo com a Lei 13.709 e é tratado aqui como o “titular” ou “você”.
 
-Ao se cadastrar na plataforma AppJusto você aceita expressamente essa Política.
+Ao aceitar esses termos você aceita expressamente essa Política.
 
-Os seus dados pessoais fornecidos para o AppJusto ao se cadastrar na plataforma poderão ser utilizados para:
+Os seus dados pessoais fornecidos para o jogo ao concordar com esses termos poderão ser utilizados para:
 
-- Entender o perfil, as necessidades e interesses dos titulares usuários da plataforma para melhorar nossos serviços e atingir a nossa missão, que é buscar relações mais justas e equilibradas para todos os integrantes do ecossistema de delivery no Brasil.
-- Entrar em contato direto com você para realização de pesquisas voltadas para a melhoria dos nossos serviços e/ou enviar comunicações sobre a Plataforma AppJusto, bem como para enviar notificações, avisos e comunicados sobre as condições da prestação de serviço.
-- Para fins de marketing, desde que voltados a nossa relação com o entregador e sempre em seu benefício.
-- Para o uso interno da AppJusto e/ou para o público em geral, desde que anonimizados.
-- Informaçoes de pagamento fornecidas servirão para que possamos realizar o repasse dos valores pelos seus serviços na forma como estipulado nos Termos e Condições de Uso da Plataforma
-- Informações de localização fornecidas servirão para que nossa plataforma, através do seus GPS e redes móveis, possa traçar o rota da entrega e acompanhar o trajeto.
-- Informações sobre o seus dispositivo (telefone móvel, tablet, etc) fornecidas servirão para que a nossa plataforma possa coletar informações sobre idioma, data e horário, fabricante e modelo do dispositivo, operadora, redes Wi-Fi, número do telefone, etc.
-- Prevenção e repreesão a fraudes, inclusive fruto de reclamações de outros participantes de nossa plafaforma como restaurantes e clientes.
+- Enviar e-mails para o professor responsável ou o receptor cujo email está cadastrado no jogo. 
 
-Ao aceitar o presente termo, você autoriza o AppJusto a:
+Ao aceitar o presente termo, você autoriza o jogo a:
 
-- Tomar decisões referentes ao tratamento de seus dados pessoais, conforme as finalidades descritas neste documento.
-- Realizar o tratamento dos seus dados, envolvendo operações a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração conforme as finalidades especificadas neste documento.
-- Transferir seus dados para parceiros importantes do AppJusto e responsáveis por parte da nossa operação do dia a dia, como por exemplo, a operadora financeira responsável para fazer o repasse dos pagamentos.
+- Realizar o tratamento dos seus dados, envolvendo operações como coleta, produção, recepção, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, comunicação, transferência, difusão ou extração conforme as finalidades especificadas neste documento.
 
-Caso queira atualizar seus dados, cancelar a autorização para o tratamento dos seus dados e pedir a exclusão dos mesmos de nossas bases, basta enviar um e-mail para [contato@appjusto.com.br](mailto:contato@appjusto.com.br) a qualquer momento.
+Caso queira atualizar seus dados, cancelar a autorização para o tratamento dos seus dados e pedir a exclusão dos mesmos de nossas bases, basta enviar um e-mail para [anderson.am.new@edu.unifor.br](mailto:anderson.am.new@edu.unifor.br) a qualquer momento.
 
 # Compartilhamento de Dados
 
-O AppJusto poderá compartilhar dados pessoais do Titular com outros agentes de tratamento de dados, caso seja necessário para as finalidades listadas neste termo.
+O jogo poderá compartilhar dados pessoais do Titular com outros agentes de tratamento de dados, caso seja necessário para as finalidades listadas neste termo.
 
 # Segurança dos Dados
 
-A AppJusto responsabiliza-se pela manutenção de medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.
+O desenvolvedor do jogo responsabiliza-se pela manutenção de medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.
 
 Qualquer incidente de segurança que possa acarretar risco ou dano relevante ao Titular deverá ser comunicado ao titular e à Autoridade Nacional de Proteção de Dados (ANPD) em conformidade ao art. 48 da Lei nº 13.709.
 
 # Término do Tratamento dos Dados
 
-A AppJusto poderá manter e tratar os dados pessoais do Titular por tempo indeterminado. Mas não iremos manter e tratar os dados por prazo superior ao necessário para que possamos atingir os objetivos pelos quais você se cadastrou na nossa plataforma. 
+O jogo poderá manter e tratar os dados pessoais do Titular por tempo indeterminado. Mas não serão mantidos e tratados os dados por prazo superior ao necessário para que sejam possíveis atingir os objetivos aos quais os jogos se propõe. 
 
-Se você solictar a exclusão da sua conta, seus dados serão excluídos permanentemente de nossa base, salvo àqueles que a legislação permitir para os fins nela indicados, como por exemplo, prevenção e responsabilização de fraudes.
-
-Dados pessoais anonimizados, sem possibilidade de associação ao indivíduo, poderão ser mantidos por período indefinido. O Titular poderá solicitar via e-mail ([contato@appjusto.com.br](mailto:contato@appjusto.com.br)), a qualquer momento, que sejam eliminados os dados pessoais não anonimizados do Titular.
+Como mencionado anteriormente, seus dados não são aramzenados externamente ou na nuvem. Seus dados existem apenas intermante armazenados da maneira padrão definida pela Unity Engine na forma de Player Prefs. Para exclui-los basta excluir o arquivo ou dado referente a Player Pref.
 
 # Direitos do Titular
 
-Você tem o direito de obter as seguintes informações do AppJusto, a qualquer momento, mediante requisição através de email ([contato@appjusto.com.br](mailto:contato@appjusto.com.br)):
+Você tem o direito de obter as seguintes informações, a qualquer momento, mediante requisição através de email.
 
 I - confirmação da existência de tratamento de dados pessoais;
 
-II - acesso aos dados;
+II - informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
 
-III - correção de dados incompletos, inexatos ou desatualizados;
-
-IV - anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na Lei nº 13.709;
-
-V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa e observados os segredos comercial e industrial, de acordo com a regulamentação do órgão controlador;
-
-V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial;
-
-VI - eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 da Lei nº 13.709;
-
-VII - informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
-
-VIII - informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa.
+III - informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa.
 
 # Dúvidas
 
-Caso tenha alguma dúvida que não foi respondida neste documento, mande para a gente no email: [contato@appjusto.com.br](mailto:contato@appjusto.com.br)
+Caso tenha alguma dúvida que não foi respondida neste documento, por favor envie um email para: [anderson.am.new@edu.unifor.br](mailto:anderson.am.new@edu.unifor.br)
